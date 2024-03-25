@@ -241,7 +241,7 @@ button[data-testid="btn-grp-chats"] {
   font-size: calc(1.3em + 1vw);
   font-weight: bold;
   text-align: center;
-  padding: 5% 22% 10% 22%;
+  padding: 5% 15% 10%;
 }
 /* .popup {
     position: fixed;
