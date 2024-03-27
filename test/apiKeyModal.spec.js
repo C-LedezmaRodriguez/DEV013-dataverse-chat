@@ -1,6 +1,6 @@
 import { ApiKeyModal } from "../src/components/ApiKeyModal.js";
 
-import { setApiKey, removeApiKey } from "../src/lib/ApiKey.js";
+import { setApiKey, removeApiKey } from "../src/lib/apiKey.js";
 
 jest.mock("../src/lib/ApiKey.js");
 

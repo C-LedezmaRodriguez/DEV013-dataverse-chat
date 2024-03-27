@@ -4,7 +4,7 @@ import data from "../data/dataset.js";
 import { Footer } from "./../components/footer.js";
 import { navigateTo } from "../router.js";
 import { ApiKeyModal } from "../components/ApiKeyModal.js";
-import { getApiKey } from "../lib/ApiKey.js";
+import { getApiKey } from "../lib/apiKey.js";
 
 export const Home = () => {
   const homeContainer = document.createElement("div");
